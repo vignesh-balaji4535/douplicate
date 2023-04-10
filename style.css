@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+
+.hi{
+text-align: center;
+margin-top: 300px;
+
+}
+h1:hover{
+   background-color: blue;
+}
